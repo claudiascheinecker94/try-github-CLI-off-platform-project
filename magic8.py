@@ -1,5 +1,6 @@
 import random
 name = "Joe"
+test = "Claudia"
 question = "Will I win the lottery?"
 answer = ""
 
